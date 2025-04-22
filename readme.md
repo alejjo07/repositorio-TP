@@ -1,1 +1,1 @@
-Este repositorio es del Trabajo Practico Ejercicio Numero 2
+#repositorio de trabajo practico
